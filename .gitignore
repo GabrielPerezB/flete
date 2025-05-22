@@ -1,0 +1,9 @@
+node_modules
+
+apps/api/dist
+apps/client/dist
+apps/api/node_modules
+apps/client/node_modules
+.turbo
+.env
+
